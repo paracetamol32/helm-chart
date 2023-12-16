@@ -3,7 +3,17 @@ entries:
   dolibarr:
   - apiVersion: v2
     appVersion: 18.0.3
-    created: "2023-12-15T16:16:19.788749715Z"
+    created: "2023-12-16T11:11:26.005875805Z"
+    description: A Helm chart for Kubernetes
+    digest: ec31908cfddd262e3760e8cf47156451ac74b25e3e139447040e85b10951fa0b
+    name: dolibarr
+    type: application
+    urls:
+    - dolibarr-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v2
+    appVersion: 18.0.3
+    created: "2023-12-16T11:11:26.005058115Z"
     description: A Helm chart for Kubernetes
     digest: 30828cf1c91fb78679ccb489c08d066a071ab787adf82b1b01d97ca68dd03916
     name: dolibarr
@@ -11,4 +21,4 @@ entries:
     urls:
     - dolibarr-1.0.1.tgz
     version: 1.0.1
-generated: "2023-12-15T16:16:19.788009487Z"
+generated: "2023-12-16T11:11:26.004065598Z"
