@@ -9,6 +9,6 @@ entries:
     name: dolibarr
     type: application
     urls:
-    - dolibarr-1.0.1.tgz
-    version: 1.0.1
+    - dolibarr-1.2.0.tgz
+    version: 1.2.0
 generated: "2023-12-15T16:16:19.788009487Z"
